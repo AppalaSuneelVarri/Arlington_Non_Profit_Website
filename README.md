@@ -1,7 +1,10 @@
 # Non-Profit-Website
 
-Graduate Research Assistant, UTA, Arlington, Texas                                                                                                                         
-[Website]([url](https://nparlington-research.uta.edu/nonprofits/)) : 
+Graduate Research Assistant, UTA, Arlington, Texas  
+
+Check out [my website][website-url]
+
+[website-url]: https://nparlington-research.uta.edu/nonprofits/
 
 
 Skills – Web Scraping, JavaScript, HTML5, CSS3, Scrapy, WordPress, Social Media Handling.
