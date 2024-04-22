@@ -1,13 +1,17 @@
-# Non-Profit-Website
+# Arlington Non-Profit Website
 
-Graduate Research Assistant, UTA, Arlington, Texas  
+**Graduate Research Assistant**, UTA, Arlington, Texas  
 
-Check out [my website][website-url]
+Check out the [website][website-url]
 
 [website-url]: https://nparlington-research.uta.edu/nonprofits/
 
+**MISSION STATEMENT**
 
-Skills – Web Scraping, JavaScript, HTML5, CSS3, Scrapy, WordPress, Social Media Handling.
+In partnership, the Arlington Tomorrow Foundation, the United Way of Tarrant County (UWTC), the City of Arlington, and The University of Texas at Arlington (UTA) seek to help meet the ongoing internal and external needs of the Arlington nonprofit sector by developing a comprehensive research study to support the collective capacity of the sector.
+
+
+**Skills** – Web Scraping, JavaScript, HTML5, CSS3, Scrapy, WordPress, Social Media Handling.
 Supported Dr. Emily Nwakpuda, Assistant Professor and Dr. Karabi Bezboruah, Professor in Department of Public Affairs and Planning.
 
 •	Collaborated with the Arlington Tomorrow Foundation, the United Way of Tarrant County (UWTC), the City of Arlington, and The University of Texas at Arlington (UTA) to conduct a comprehensive research study supporting the collective capacity of the Arlington nonprofit sector.
