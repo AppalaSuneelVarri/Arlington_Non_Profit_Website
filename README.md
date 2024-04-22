@@ -1,7 +1,5 @@
 # Arlington Non-Profit Website
 
-**Graduate Research Assistant**, UTA, Arlington, Texas  
-
 Check out the [website][website-url]
 
 [website-url]: https://nparlington-research.uta.edu/nonprofits/
