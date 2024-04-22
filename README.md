@@ -12,6 +12,7 @@ In partnership, the Arlington Tomorrow Foundation, the United Way of Tarrant Cou
 
 
 **Skills** – Web Scraping, JavaScript, HTML5, CSS3, Scrapy, WordPress, Social Media Handling.
+
 Supported Dr. Emily Nwakpuda, Assistant Professor and Dr. Karabi Bezboruah, Professor in Department of Public Affairs and Planning.
 
 •	Collaborated with the Arlington Tomorrow Foundation, the United Way of Tarrant County (UWTC), the City of Arlington, and The University of Texas at Arlington (UTA) to conduct a comprehensive research study supporting the collective capacity of the Arlington nonprofit sector.
