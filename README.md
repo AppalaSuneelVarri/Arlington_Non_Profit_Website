@@ -6,7 +6,7 @@ Check out the [website][website-url]
 
 [website-url]: https://nparlington-research.uta.edu/nonprofits/
 
-**MISSION STATEMENT**
+**MISSION**
 
 In partnership, the Arlington Tomorrow Foundation, the United Way of Tarrant County (UWTC), the City of Arlington, and The University of Texas at Arlington (UTA) seek to help meet the ongoing internal and external needs of the Arlington nonprofit sector by developing a comprehensive research study to support the collective capacity of the sector.
 
