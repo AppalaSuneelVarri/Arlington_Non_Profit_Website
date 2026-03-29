@@ -2,7 +2,7 @@
 
 Check out the [website][website-url]
 
-[website-url]: https://nparlington-research.uta.edu/nonprofits/
+[website-url]: https://nparlington-research.uta.edu
 
 **MISSION**
 
